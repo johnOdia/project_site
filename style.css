@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(37, 35, 35);
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+article{
+    border: 2px solid red;
+    margin: 0px 120px;
+    box-shadow: 4px 4px rgb(48, 3, 3);
+}
+h2{
+    color: red;
+}
+span{
+    color: rgb(201, 119, 201);
+}
+span:hover{
+    font-size: 30px;
+    text-decoration: underline;
+}
